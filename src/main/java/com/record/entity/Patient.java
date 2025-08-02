@@ -6,6 +6,7 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 
 import java.util.Locale;
+//Entity class(Encapsulated)
 
 @Entity
 public class Patient {
